@@ -1,4 +1,7 @@
 ---
+
+dependencies: []
+
 galaxy_info:
   description: Creates or updates a key-value environment and example environment file
   author: British Antarctic Survey - Web and Applications Team
@@ -10,11 +13,3 @@ galaxy_info:
       - trusty
   categories:
   - web
-
-armadillo_info:
-  name: Dot Env
-  version: 0.1.1
-  source: git@stash.ceh.ac.uk:7999/barc/dot-env.git
-  dependencies: []
-
-dependencies: []
